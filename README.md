@@ -3,7 +3,7 @@
 | Nama       | Rifa Andiani               |
 | :--------- | :------------------------- |
 | NIM        | 312210377                  |
-| Kelas      | TI.22.A4                   |
+| Kelas      | TI.22.B2                   |
 | Matakuliah | Pemrograman Web 2          |
 | Dosen      | Sufajar Butsianto, S.Kom. ,M.Kom.,|
 
