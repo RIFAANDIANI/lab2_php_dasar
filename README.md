@@ -1,4 +1,4 @@
-# Lab-7-Web
+# Lab-2-Web
 
 | Nama       | Rifa Andiani               |
 | :--------- | :------------------------- |
@@ -7,7 +7,7 @@
 | Matakuliah | Pemrograman Web 2          |
 | Dosen      | Sufajar Butsianto, S.Kom. ,M.Kom.,|
 
-<h1 align="center"> Praktikum 7 </h1>
+<h1 align="center"> Praktikum 2 </h1>
 
 ### What We Learne Here
 
